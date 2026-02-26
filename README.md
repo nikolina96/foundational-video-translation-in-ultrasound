@@ -22,7 +22,7 @@ In my recent work, I propose a video translation pipeline that converts CFD ultr
 
 ## Impact
 
-- **Dataset augmentation**: Recovered >40% more usable data for clinical deep learning tasks, improving class balance and diversity of **rare pathologies** in fetal ultrasound screening.
+- **Dataset augmentation**: Recovered 50% more usable data for clinical deep learning tasks, improving class balance and diversity of **rare pathologies** in fetal ultrasound screening.
 - **Foundational capability**: Reconstructs complex anatomy even under dense CFD signal, generalizing to structures not seen during training.
 - **Clinical validation**: Combines computational metrics and blinded clinician perception to ensure realism and diagnostic integrity -- therefore improving trust in AI for healthcare.
 - **Future potential**: Approach can extend to denoising, super-resolution, and other imaging modalities.
